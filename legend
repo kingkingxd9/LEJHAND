@@ -74,7 +74,7 @@ repo.heads[ACTIVE_BRANCH_NAME].checkout(True) ')
 _start_bot () {
     local zippath
     zippath="PIROBOT.zip"
-    echo "  Downloading source code ..."
+    echo "  Downloading source code..."
     wget -q $(_get_zlink) -O "$zippath"
     echo "  Unpacking Data ..."
     CATPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
