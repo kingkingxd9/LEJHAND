@@ -42,13 +42,16 @@
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-- Fork This Main Repo.
-- Go to Setting Of Repo.
-- Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
-- Now U Can Deploy This Bot.
 
-<a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://github.com/mrvk1703/lejhand" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-</a>
+<details>
+<summary><b>• ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ •</b></summary>
+<br>
+
+> Heroku has blacklisted this repository, That's why heroku aur uski maa ka bharosha
+
+<h4>Click the button below to deploy Bot on Heroku!</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/mrvk1703/LEJHAND"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
 
 ---------
 
