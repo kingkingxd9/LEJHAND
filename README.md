@@ -50,7 +50,7 @@
 > Heroku has blacklisted this repository, That's why heroku aur uski maa ka bharosha
 
 <h4>Click the button below to deploy Bot on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/mrvk1703/LEJHAND"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/kingkingxd9/LEJHAND"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
 ---------
